@@ -10,4 +10,4 @@ HTML, CSS, JAVASCRİPT
 
 <h2>Ekran Görüntüsü</h2>
 
->[](Bilgi.gif)
+![](Bilgi.gif)
